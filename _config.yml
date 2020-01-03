@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Zagalo"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Kevin Zagalo"
 description              : &description "Ph D. student in computer science"
