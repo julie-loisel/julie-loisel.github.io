@@ -83,8 +83,8 @@ author:
   name             : "Kevin Zagalo"
   avatar           : "profile.jpg"
   bio              : "Ph D. student in computer science"
-  location         : "Paris"
-  employer         : "INRIA"
+  location         : 
+  employer         : "INRIA Paris"
   pubmed           : 
   googlescholar    : 
   email            : "kevin.zagalo@inria.fr"
