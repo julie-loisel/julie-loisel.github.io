@@ -19,8 +19,8 @@ Education
 Work experience
 ======
 
-* Spring 2019: Intern at Fotonower
-  * Computer vision and machine learning
+* Spring 2019: Computer vision intern
+  * Fotonower
   * Feature engineering for oceanic emmbedded classification of planktons.
 
 * Fall 2018: Tutor for exiled students program
