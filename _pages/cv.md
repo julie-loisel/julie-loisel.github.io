@@ -21,7 +21,7 @@ Work experience
 
 * Spring 2019: Computer vision intern
   * Fotonower
-  * Feature engineering for oceanic emmbedded classification of planktons.
+  * Feature engineering for oceanic embedded classification of planktons.
 
 * Fall 2018: Tutor for exiled students program
   * Sorbonne Université
