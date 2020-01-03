@@ -17,14 +17,23 @@ Education
 
 Work experience
 ======
-* Fall 2016: 9th grade teacher 
-  * Jacob Safra High School
-  * Field: mathematics
 
 * Spring 2019: Intern at Fotonower
   * Computer vision and machine learning
-  * Embedded classification : Feature engineering for oceanic emmbedded classification of planktons
+  * Feature engineering for oceanic emmbedded classification of planktons.
+
+* Fall 2018: Tutor for exiled students program
+  * Sorbonne Université
+  * The main purpose was to help exiled people to restart the studies they left behind in their country.
   
+* Fall 2016: 9th grade mathematics teacher 
+  * Jacob Safra High School
+  * Field: mathematics
+
+* Summer 2012 to Spring 2019: Retail manager
+  * Auchan Retail France
+  * Planing the cashiers team work, solving human and machines problems.
+
 Keywords
 ======
 * Random models, markovian processes and diffusions, Monte-Carlo methhods, stochastic analysis, limit theorems, mixing time, stochastic algorithms.
