@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Welcome"
 excerpt: "Kevin Zagalo"
 author_profile: true
 redirect_from: 
