@@ -1,7 +1,10 @@
 ---
-title: "2.1. Logistic regression"
+title: "Statistical learning (IMC-4302C)"
 permalink: IMC-4302C/Lab21/
 ---
+
+# 2.1 Logistic regression
+
 In this practice session, you are invited to train a logistic regression classifier using gradient descent method in a first time then a python optimization function. After that your classifier should predict if student will be admitted or not given his score in two main exams. 
 
 In the second part, we will work with more complex data that represents the scores result of two test process on a manufactured microchip. Based on this data, you could use polynomial features to train a classifier that predict if a microchip with known tests result will be accepted or rejected. 
