@@ -1,7 +1,7 @@
-Lab 1 
-
-Linear Regression
------------------
+---
+title: "1. Linear regression"
+permalink: IMC-4302C/Lab1/
+---
 
 In this practice session, you are invited to train a linear regression model using gradient descent method. After the learning phase, your model should predict house prices in the region of *Ile-de-France* given their areas (in m²) and their numbers of rooms.
 
