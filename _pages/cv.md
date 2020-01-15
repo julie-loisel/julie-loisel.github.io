@@ -14,6 +14,7 @@ Education
 * DUT in computer science, Université de Paris, 2012 (3 semesters)
 * B.S. in Mathematics, Sorbonne Université, 2015
 * M.S. in Probabilities and stochastic processes, Sorbonne Université, 2019
+  * Master thesis : _[The Ulam's Problem](https://kevinzagalo.github.io/files/memoire_ULAM.pdf)_.
 * Ph.D in Embedded real-time systems statistical analysis, INRIA, 2022 (expected)
 
 Work experience
