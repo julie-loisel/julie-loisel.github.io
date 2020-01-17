@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-# [onestla.tech](http://onestla.tech)
-# [Université ouverte](https://universiteouverte.org/)
+# _[onestla.tech](http://onestla.tech)_
+# _[Université ouverte](https://universiteouverte.org/)_
