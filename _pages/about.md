@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-# <span style="font-family: 'courrier';">[on](http://onestla.tech)**[est](http://onestla.tech)**[la](http://onestla.tech).[tech](http://onestla.tech)/'</span>
+# <span style="font-family: 'Courier';">[on](http://onestla.tech)**[est](http://onestla.tech)**[la](http://onestla.tech).[tech](http://onestla.tech)/</span>
 # [Université ouverte](https://universiteouverte.org/)
