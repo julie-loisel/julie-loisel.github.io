@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:large;"><a href="http://onestla.tech"><span style="font-family: 'Courier New';">on</span><span style="font-family: 'Courier';">est</span><span style="font-family: 'Courier New';"></span><span style="font-family: 'Courier New';">la</span><span style="font-family: 'Courier';">.</span><span style="font-family: 'Courier New';">tech</span><span style="font-family: 'Courier';">/</span></a></span>
+<span style="font-size:1em;"><a href="http://onestla.tech"><span style="font-family: 'Courier New';">on</span><span style="font-family: 'Courier';">est</span><span style="font-family: 'Courier New';"></span><span style="font-family: 'Courier New';">la</span><span style="font-family: 'Courier';">.</span><span style="font-family: 'Courier New';">tech</span><span style="font-family: 'Courier';">/</span></a></span>
 # [Université ouverte](https://universiteouverte.org/)
 
 
