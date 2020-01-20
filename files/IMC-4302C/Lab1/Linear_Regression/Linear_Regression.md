@@ -1,7 +1,9 @@
 ---
-title: "1. Linear regression"
+title: "Statistical learning (IMC-4302C)"
 permalink: IMC-4302C/Lab1/
 ---
+
+# 1. Linear regression
 
 In this practice session, you are invited to train a linear regression model using gradient descent method. After the learning phase, your model should predict house prices in the region of _Ile-de-France_ given their areas (in m²) and their numbers of rooms.
 
