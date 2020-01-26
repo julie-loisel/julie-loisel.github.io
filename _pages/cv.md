@@ -38,7 +38,7 @@ Work experience
 
 Keywords
 ======
-* Random models, markovian processes and diffusions, Monte-Carlo methhods, stochastic analysis, limit theorems, mixing time, stochastic algorithms.
+* Random models, markovian processes and diffusions, Monte-Carlo methods, stochastic analysis, limit theorems, mixing time, stochastic algorithms.
 
 * Data analysis, statistical learning, cloud computing, parallel programming, computer vision.
 
