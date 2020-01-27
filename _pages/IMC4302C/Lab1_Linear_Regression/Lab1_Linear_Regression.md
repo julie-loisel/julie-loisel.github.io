@@ -1,6 +1,6 @@
 ---
 title: "Statistical learning (IMC-4302C)"
-permalink: teaching/IMC-4302C/Lab1/
+permalink: teaching/IMC-4302C/Lab1/dfwbxnvn
 ---
 
 # Lab 1 : Linear regression
