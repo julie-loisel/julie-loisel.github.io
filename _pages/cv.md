@@ -14,7 +14,7 @@ Education
 * DUT in computer science, Université de Paris, 2012 (3 semesters)
 * B.S. in Mathematics, Sorbonne Université, 2015
 * M.S. in Probabilities and stochastic processes, Sorbonne Université, 2019
-  * Master thesis : _[The Ulam's Problem](https://kevinzagalo.github.io/files/memoire_ULAM.pdf)_.
+  * Master thesis : _[The Ulam's Problem](https://who.rocq.inria.fr/Kevin.Zagalo/docs/memoire_ULAM.pdf)_.
 * Ph.D in Embedded real-time systems statistical analysis, INRIA, 2022 (expected)
 
 Work experience
@@ -38,7 +38,7 @@ Work experience
 
 Keywords
 ======
-* Random models, markovian processes and diffusions, Monte-Carlo methhods, stochastic analysis, limit theorems, mixing time, stochastic algorithms.
+* Random models, markovian processes and diffusions, Monte-Carlo methods, stochastic analysis, limit theorems, mixing time, stochastic algorithms.
 
 * Data analysis, statistical learning, cloud computing, parallel programming, computer vision.
 
