@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 <head>
-<meta http-equiv="refresh" content="0; URL=https://who.rocq.inria.fr/Kevin.Zagalo/sl.html">
+<meta http-equiv="refresh" content="0; URL=https://who.rocq.inria.fr/Kevin.Zagalo/">
 </head>
