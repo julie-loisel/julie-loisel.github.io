@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Julie Loisel"
-description              : &description "Ph D. student in machine learning"
+description              : &description "Ph D. student in applied statistical learning"
 url                      : https://julie-loisel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "julie-loisel/julie-loisel.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Julie Loisel"
   avatar           : "profile.png"
-  bio              : "Ph D. student in machine learning"
+  bio              : "Ph D. student in applied statistical learning"
   location         : 
   employer         : "AgroParisTech & INRAE"
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "julie-loisel-3a724813a"
   orcid            : 
   pinterest        :
   soundcloud       :
