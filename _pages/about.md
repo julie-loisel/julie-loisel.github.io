@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-<head>
-<meta http-equiv="refresh" content="0; URL=https://who.rocq.inria.fr/Kevin.Zagalo/">
-</head>
+coucou
