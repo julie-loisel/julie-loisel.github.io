@@ -1,11 +1,4 @@
-**Contact : <kevin.zagalo@inria.fr>**
+**Contact : <julie.loisel@agroparistech.fr>**
 
 ---
 
-[IMC-4302C](IMC-4302C)
-
----
-
-[Academic background *etc.*](cv)
-
----
