@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* DUT in computer science, Université de Paris, 2012 (3 semesters)
-* B.S. in Mathematics, Sorbonne Université, 2015
-* M.S. in Probabilities and stochastic processes, Sorbonne Université, 2019
-  * Master thesis : _[The Ulam's Problem](https://who.rocq.inria.fr/Kevin.Zagalo/docs/memoire_ULAM.pdf)_.
-* Ph.D in Embedded real-time systems statistical analysis, INRIA, 2022 (expected)
+* Ph.D in Applied statistical learning, 2022 (expected)
+* M.S. in Statistics, Sorbonne Université, 2019
+* B.S. in Mathematics, Sorbonne Université, 2017
 
 Work experience
 ======
 
-* Spring 2019: Computer vision intern
-  * Fotonower
-  * Feature engineering for oceanic embedded classification of planktons.
+* Spring 2019 : Machine Learning intern
+  * CRAFT : Crédit Agricole FinTech
+  * 
 
-* Fall 2018: Tutor for exiled students program
-  * Sorbonne Université
-  * The main purpose was to help exiled people to restart the studies they left behind in their country.
+* Summer 2018 : Coding workshop animator for kids
+  *[Magic Makers](https://www.magicmakers.fr/)
+    * Web: HTML/CSS
+    * Game: Unity software for 3D games (C# scripts )
+    * Arduino C
+    * App inventor
   
-* Fall 2016: 9th grade mathematics teacher 
-  * Jacob Safra High School
-  * Field: mathematics
+* Summer 2017 : Data Science Intern
+  * Disneyland Paris
+    *Tableau software dashboard creation
+    *Data extraction using SQL and Business Object
+    *Automating repetitive SPSS tasks using Python
 
-* Summer 2012 to Spring 2019: Retail manager
-  * Auchan Retail France
-  * Planing the cashiers team work, solving human and machines problems.
+* Summer 2015 to 2016 : Sporting goods saleswoman
+  * Au Vieux Campeur, Paris
+  * Summer work : technical advice, sale
 
 Keywords
 ======
