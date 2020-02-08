@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Kevin Zagalo"
-description              : &description "Ph D. student in computer science"
-url                      : https://kevinzagalo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Julie Loisel"
+description              : &description "Ph D. student in machine learning"
+url                      : https://julie-loisel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kevinzagalo/kevinzagalo.github.io"
+repository               : "julie-loisel/julie-loisel.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin Zagalo"
-  avatar           : "profile.jpg"
-  bio              : "Ph D. student in computer science"
+  name             : "Julie Loisel"
+  avatar           : "profile.png"
+  bio              : "Ph D. student in machine learning"
   location         : 
-  employer         : "INRIA Paris"
+  employer         : "AgroParisTech & INRAE"
   pubmed           : 
   googlescholar    : 
-  email            : "kevin.zagalo@inria.fr"
+  email            : "julie.loisel@agroparistech.fr"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kevinzagalo"
+  github           : "julie-loisel"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "kevinzagalo"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
