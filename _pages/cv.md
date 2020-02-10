@@ -20,29 +20,24 @@ Work experience
 
 * Spring 2019 : Machine Learning intern
   * CRAFT : Crédit Agricole FinTech
-  * 
+ 
 
-* Summer 2018 : Coding workshop animator for kids
-  *[Magic Makers](https://www.magicmakers.fr/)
+* Summer 2018 : Coding workshop animator for kids at [Magic Makers](https://www.magicmakers.fr/)
     * Web: HTML/CSS
     * Game: Unity software for 3D games (C# scripts )
     * Arduino C
     * App inventor
   
-* Summer 2017 : Data Science Intern
-  * Disneyland Paris
+* Summer 2017 : Data Science Intern at Disneyland Paris
     *Tableau software dashboard creation
     *Data extraction using SQL and Business Object
     *Automating repetitive SPSS tasks using Python
 
-* Summer 2015 to 2016 : Sporting goods saleswoman
-  * Au Vieux Campeur, Paris
+* Summer 2015 to 2016 : Sporting goods saleswoman at Au Vieux Campeur, Paris
   * Summer work : technical advice, sale
 
 Keywords
 ======
-* Random models, markovian processes and diffusions, Monte-Carlo methods, stochastic analysis, limit theorems, mixing time, stochastic algorithms.
-
-* Data analysis, statistical learning, cloud computing, parallel programming, computer vision.
-
-* Python, SQL, C/C++, R. Notions of CUDA and Spark.
+* Parametric and non parametric statistics, Time Series, Monte-Carlo methods, 
+* Data analysis, statistical learning, cloud computing
+* Python, SQL, C/C++, R, PySpark
