@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied statistical learning, 2022 (expected)
+* Ph.D in Applied statistical learning, supervised by Onrawee Laguerre (INRAE) and Antoine Cornuéjols (AgroParisTech) 2022 (expected)
 * M.S. in Statistics, Sorbonne Université, 2019
 * B.S. in Mathematics, Sorbonne Université, 2017
 
